@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shr00t
-- 👀 I’m interested in Offensive Security, Computer Networking, Automation, and Python.
-- 🌱 I’m currently learning what I am interested in.
+- Hello I am @Shr00t!
+- I am interested in Offensive Security, Computer Networking, and GRC.
+- I am currently refining my skills with networking and ethical hacking. 
 
 
 <!---
